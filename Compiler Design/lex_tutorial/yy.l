@@ -1,0 +1,3 @@
+%%
+himan ECHO; yymore();
+%%
