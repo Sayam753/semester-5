@@ -4,3 +4,6 @@
 [submodule "Compiler Design/cd-assignment_2"]
 	path = Compiler Design/cd-assignment_2
 	url = https://github.com/Sayam753/cd-assignment_2
+[submodule "SDA/sda-assignment1"]
+	path = SDA/sda-assignment1
+	url = https://github.com/Sayam753/sda-assignment1
