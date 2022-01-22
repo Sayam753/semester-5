@@ -1,4 +1,0 @@
-S -> E
-E -> E+T | T
-T -> TxF | F
-F -> b
